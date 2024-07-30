@@ -7,8 +7,8 @@
     <p>
       Hello World!
     </p>
-    <p>
-      <?php echo file_get_contents('/var/www/internal/test.txt') ?>
-    </p>
+    <pre>
+      <?php echo file_get_contents('/var/www/internal/frogtab/LICENSE') ?>
+    </pre>
   </body>
 </html>
